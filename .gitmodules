@@ -1,0 +1,3 @@
+[submodule "optix_apps"]
+	path = optix_apps
+	url = https://github.com/NVIDIA/OptiX_Apps
